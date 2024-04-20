@@ -14,6 +14,8 @@ Você pode entrar em contato comigo 📫:
 
 @Kah-Vitoria
 
+< Escrito por Karoline
+
 <!--
 **Kah-Vitoria/Kah-Vitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
