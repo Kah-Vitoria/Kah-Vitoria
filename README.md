@@ -1,7 +1,7 @@
 ### Hi there 👋
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Karoline Vitória
+Meu nome é **Karoline Vitória**
 
 Estou estudando na Alura
 
